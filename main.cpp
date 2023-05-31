@@ -3,7 +3,6 @@
 #include <thread>
 #include <iostream>
 
-// https://github.com/frk1/hazedumper/blob/master/csgo.hpp
 namespace offsets
 {
 	constexpr auto localPlayer = 0xDA747C;
